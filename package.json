@@ -1,0 +1,34 @@
+{
+  "bundleDependencies": false,
+  "description": "sliding panel for android and ios | react native",
+  "keywords": [
+    "Sliding up",
+    "Sliding down",
+    "Sliding Right",
+    "Sliding Left",
+    "Sliding up panel",
+    "Sliding right panel",
+    "Sliding down panel",
+    "Sliding left panel",
+    "Sliding panel for android",
+    "Sliding panel for ios",
+    "Sliding panel for android and ios"
+  ],
+  "name": "react-native-sliding-panel",
+  "private": false,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminerol/react-native-sliding-panel.git"
+  },
+  "author": "Amine Bl <zazamine8@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminerol/react-native-sliding-panel/issues"
+  },
+  "homepage": "https://github.com/aminerol/react-native-sliding-panel#readme"
+}
