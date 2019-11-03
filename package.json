@@ -14,7 +14,7 @@
     "Sliding panel for ios",
     "Sliding panel for android and ios"
   ],
-  "name": "react-native-sliding-panel",
+  "name": "react-native-sliding-panels",
   "private": false,
   "version": "1.0.0",
   "main": "index.js",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aminerol/react-native-sliding-panel.git"
+    "url": "git+https://github.com/aminerol/react-native-sliding-panels.git"
   },
   "author": "Amine Bl <zazamine8@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aminerol/react-native-sliding-panel/issues"
+    "url": "https://github.com/aminerol/react-native-sliding-panels/issues"
   },
-  "homepage": "https://github.com/aminerol/react-native-sliding-panel#readme"
+  "homepage": "https://github.com/aminerol/react-native-sliding-panels#readme"
 }
